@@ -12,7 +12,7 @@ class Label extends Component {
 class Hello extends Component {
     render() {
         return (
-            <div>Hello,<label>World</label></div>
+            <div>Hello,<Label>World</Label></div>
         )
     }
 }
